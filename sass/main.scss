@@ -150,8 +150,7 @@ header {
     }
 
     .aboutus-hover {
-        cursor: pointer;
-        transition: color .3s;
+                transition: color .3s;
 
         &:hover {
             color: $main-color;
@@ -185,7 +184,6 @@ header {
 
         .aboutus-hero-hover {
             transition: scale .3s;
-            cursor: pointer;
 
             &:hover {
                 // transform: scale(1.1);
