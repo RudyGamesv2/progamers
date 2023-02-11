@@ -107,6 +107,9 @@ nav .fa-bars {
   padding: 10px;
   color: #fff;
 }
+nav .code {
+  color: lime;
+}
 
 header {
   color: #fff;
