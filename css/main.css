@@ -169,7 +169,6 @@ header .fa-angle-down, header .arrow {
   font-size: 14px;
 }
 .aboutus .aboutus-hover {
-  cursor: pointer;
   transition: color 0.3s;
 }
 .aboutus .aboutus-hover:hover {
@@ -198,7 +197,6 @@ header .fa-angle-down, header .arrow {
 }
 .aboutus-hero .aboutus-hero-item .aboutus-hero-hover {
   transition: scale 0.3s;
-  cursor: pointer;
 }
 .aboutus-hero .aboutus-hero-item .aboutus-hero-hover:hover {
   scale: 1.1;
